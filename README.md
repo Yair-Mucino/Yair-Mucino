@@ -10,9 +10,9 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
 
-  <a href="mailto:yairsm20@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yairsm20@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
 </p>
 
 </div>
@@ -36,24 +36,20 @@ Con mi formación como base, mi meta principal está enfocada en integrarme a eq
 ## 🛠️ Stack Tecnológico
 
 <h3>Backend</h3>
-
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 <h3>Frontend</h3>
-
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 
 <h3>Base de Datos</h3>
-
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 <h3>Control de Versiones</h3>
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </td>
@@ -63,24 +59,22 @@ Con mi formación como base, mi meta principal está enfocada en integrarme a eq
 ## 📂 Proyectos Destacados
 
 ### 🏪 EstlMarket
+
 Red social universitaria enfocada en la interacción de la comunidad y comercio local.
 
-**Tecnologías:** React • Tailwind CSS
-
+⚙️ React | Tailwind CSS
 <br>
 
 ### 📦 GetRoasted
 Sistema de punto de venta con control estricto de inventarios y analíticas.
 
-**Tecnologías:** C# • WPF • MySQL
-
+⚙️ C# | WPF | MySQL
 <br>
 
 ### 🚚 Courier
 Plataforma web orientada a la logística y gestión de distribución.
 
-**Tecnologías:** JavaScript • PostgreSQL
-
+⚙️ JavaScript | PostgreSQL
 </td>
 </tr>
 </table>
