@@ -15,7 +15,7 @@
   </a>
 
   <a href="https://portfolio-ten-inky-15.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-0A66C2?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="45" />
 </a>
 </p>
 
