@@ -11,8 +11,12 @@
   </a>
 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yairsm20@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-</a>
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+
+  <a href="https://portfolio-ten-inky-15.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=web" height="45" />
+  </a>
 </p>
 
 </div>
