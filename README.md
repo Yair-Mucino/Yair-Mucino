@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👨‍💻 Edwin Yair Sandoval Muciño
@@ -10,17 +9,16 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
 
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yairsm20@gmail.com">
+  <a href="mailto:yairsm20@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
+</p>
 
-  <a href="https://portfolio-ten-inky-15.vercel.app/">
-  <img src="https://skillicons.dev/icons?i=vercel" height="45" />
-</a>
+<p align="center">
+  🌐 <a href="https://portfolio-ten-inky-15.vercel.app/"><b>Visita mi portafolio</b></a>
 </p>
 
 </div>
-
 ---
 
 <div align="center">
